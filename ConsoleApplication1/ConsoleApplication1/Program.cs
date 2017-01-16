@@ -12,6 +12,7 @@ namespace ConsoleApplication1
 
         static void Main(string[] args)
         {
+            WriteLine("Hello World from branch A");
             WriteLine("Hello World from branch B");
             WriteLine("another change");
             WriteLine("another another change");
