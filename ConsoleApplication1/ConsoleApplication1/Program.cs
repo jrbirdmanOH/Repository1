@@ -14,6 +14,7 @@ namespace ConsoleApplication1
         {
             WriteLine("Hello World from branch B");
             WriteLine("another change");
+            WriteLine("another another change");
             ReadKey();
         }
     }
